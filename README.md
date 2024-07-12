@@ -15,3 +15,8 @@ Collecting data by scraping Toyota Unser's price from Mudah.my and conduct end-t
 
 ### Data Analysis
 1. Generate the KPI (Max, Min, Avg)
+2. Develop line chart trending data
+
+### Data Visualization
+1. Create score card for Max, Min and Avg Price KPI
+2. Create line chart
